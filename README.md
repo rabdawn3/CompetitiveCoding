@@ -5,6 +5,6 @@ Project Owners :
 -----------------------------
 Sourav Mitra(souravmitra007)
 Rabidipto Dawn(rabdawn3)
-Joy Shankar Das(Joydas123)
+Joy S. Das(Joydas123)
 Dona Das(delosevica)
 ----------------------------
